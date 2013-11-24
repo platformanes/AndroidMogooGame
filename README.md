@@ -15,7 +15,7 @@
 
 ## 打包APK过程
 
->  参照 `AndroidMogooGame\buildAPK\.bat`中的命令 其中adt路径修改为你的本地路径
+>   请自行查看我博客中的文章.
 
 ## 作者
 
