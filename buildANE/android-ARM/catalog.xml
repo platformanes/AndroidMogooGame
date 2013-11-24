@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding ="utf-8"?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+  <versions>
+    <swc version="1.2" />
+    <flex version="4.6.0" build="23201" minimumSupportedVersion="3.0.0" />
+  </versions>
+  <features>
+    <feature-script-deps />
+    <feature-files />
+  </features>
+  <libraries>
+    <library path="library.swf">
+      <script name="com/mogoo/ane/MogooExtension" mod="1385306704164" signatureChecksum="3942559787" >
+        <def id="com.mogoo.ane:MogooExtension" /> 
+        <dep id="flash.events:StatusEvent" type="e" /> 
+        <dep id="flash.external:ExtensionContext" type="e" /> 
+        <dep id="flash.events:IEventDispatcher" type="s" /> 
+        <dep id="flash.events:StatusEvent" type="s" /> 
+        <dep id="flash.external:ExtensionContext" type="s" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.events:EventDispatcher" type="i" /> 
+      </script>
+      <script name="_bf6a283e9577a0b9ab0a1f666810c3b0ffa12716df8b6d7a943e916efa142bba_flash_display_Sprite" mod="1385306713091" signatureChecksum="1012104091" >
+        <def id="_bf6a283e9577a0b9ab0a1f666810c3b0ffa12716df8b6d7a943e916efa142bba_flash_display_Sprite" /> 
+        <dep id="flash.system:Security" type="e" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="flash.display:Sprite" type="i" /> 
+      </script>
+      <script name="com/mogoo/ane/MogooEvents" mod="1385298037975" signatureChecksum="3205263333" >
+        <def id="com.mogoo.ane:MogooEvents" /> 
+        <dep id="AS3" type="n" /> 
+        <dep id="Object" type="i" /> 
+      </script>
+      <digests>
+        <digest type="SHA-256" signed="false" value="418e7afa00898ff3562a333ba62ed22a271b68bf33dde31b0d805daed2a6bf65"   />
+      </digests>
+    </library>
+  </libraries>
+  <files>
+  </files>
+</swc>
